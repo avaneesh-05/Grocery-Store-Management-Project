@@ -1,0 +1,1 @@
+Developed a grocery store management system using HTML, CSS, JavaScript, and Bootstrap for frontend, Python with Flask for backend, and MySQL for database. Utilized GitHub for version control and sqlalchemy to interact seamlessly with MySQL.
